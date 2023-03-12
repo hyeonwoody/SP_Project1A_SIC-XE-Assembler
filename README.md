@@ -13,7 +13,7 @@ inst.data 파일로부터 파싱한 instruction set을 기반으로 operand에 �
 </br>
 </br>
 inst.data :
-Opcodes that are used in program.
+Opcodes used in program.
 </br>
 
 input.txt :
