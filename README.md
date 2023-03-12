@@ -5,11 +5,10 @@ Soongsil University. System Programming 2021-1 Project1A - Two pass Assembler fo
 inst.data 파일로부터 파싱한 instruction set을 기반으로 operand에 해당하는 opcode를 매핑 시킴으로써 기본적인 SIC / XE 머신의 작동 원리를 이해할 수 있습니다.
 ![1](https://user-images.githubusercontent.com/75844701/224520533-acb44d62-b3b1-4eb4-bf33-fb64456e1547.png)
 </br>
-![2](https://user-images.githubusercontent.com/75844701/224520536-d3cee37e-1ea6-4184-bf93-66245d1d6a77.png)
+![2](https://user-images.githubusercontent.com/75844701/224520854-9b684944-0e41-4327-922c-ba798182537a.png)
+
 </br>
-![3](https://user-images.githubusercontent.com/75844701/224520542-ddb6e233-9b96-4302-baf5-0ad989ea2b8e.png)
-</br>
-![4](https://user-images.githubusercontent.com/75844701/224520543-af83fbff-5576-49a9-87ee-fa899e408155.png)
+![3](https://user-images.githubusercontent.com/75844701/224520861-5cd224de-9444-48bf-9e2c-a708d80d577c.png)
 </br>
 ![5](https://user-images.githubusercontent.com/75844701/224520544-2041ef87-c295-41c5-a6a4-792b3a061d51.png)
 
