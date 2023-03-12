@@ -9,8 +9,6 @@ inst.data 파일로부터 파싱한 instruction set을 기반으로 operand에 �
 
 ![3](https://user-images.githubusercontent.com/75844701/224520861-5cd224de-9444-48bf-9e2c-a708d80d577c.png)
 
-![5](https://user-images.githubusercontent.com/75844701/224520544-2041ef87-c295-41c5-a6a4-792b3a061d51.png)
-
 ![6](https://user-images.githubusercontent.com/75844701/224520548-f393c0ba-c5e1-41ea-a16e-27e6cb5dccdb.png)
 
 inst.data :
