@@ -1,7 +1,7 @@
 # SIC-XE-Assembler
 Soongsil University. System Programming 2021-1 Project1A - Two pass Assembler for SIC/XE written in C
 ## 🧑‍💻: Intro
->소스코드 (input.txt)를 입력 받아 label, operator, operand, comment로 구분하여 토큰화 해서 파싱하고,
+소스코드 (input.txt)를 입력 받아 label, operator, operand, comment로 구분하여 토큰화 해서 파싱하고,
 inst.data 파일로부터 파싱한 instruction set을 기반으로 operand에 해당하는 opcode를 매핑 시킴으로써 기본적인 SIC / XE 머신의 작동 원리를 이해할 수 있습니다.
 ![1](https://user-images.githubusercontent.com/75844701/224520533-acb44d62-b3b1-4eb4-bf33-fb64456e1547.png)
 
