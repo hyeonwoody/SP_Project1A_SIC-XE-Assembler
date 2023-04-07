@@ -28,7 +28,7 @@ As the word is set in 'cmp', its value is store on 'label', 'operator', 'operand
 </br>
 </br>
 
-## 📞: Contact!
+## 📞: Contact
 
 - 이메일: hyeonwoody@gmail.com
 - 블로그: https://velog.io/@hyeonwoody
